@@ -1,4 +1,4 @@
-# testing123: earth-analytics-bootcamp
+# earth-analytics-bootcamp: testing123
 
 This repository contains the notebooks for this week's assignment.
 Complete the homework in each .ipynb notebook, commit your work, and
